@@ -1,0 +1,9 @@
+{
+    "name": "Offline Budget Tracker",
+    "short_name": "Offline Budget Tracker",
+    "description": "An awesome budgeting app to track expenses!",
+    "icons": [],
+    "background_color": "#dddddd",
+    "start_url": "/",
+    "display": "standalone"
+}
